@@ -1,0 +1,55 @@
+*{
+    background-color: rgb(3, 3, 31);
+}
+.navibar a{
+    background-color:rgb(25, 25, 89);
+    color: white;
+    text-decoration: none;
+    padding:10px;
+    border-radius:25px;
+    margin: 10px;
+    
+}
+.navibar{
+    background-color: rgb(2, 2, 57);
+    height: 50px;
+    padding-top: 20px;
+}
+.navibar a:hover{
+    background-color: rgb(85, 85, 161);
+    color: white;
+}
+hr{
+    border: 1px solid rgb(4, 4, 71);
+}
+.paneer{
+    padding: 30px;
+    color:white;
+    background-color:rgb(2, 2, 57) ;
+    border-radius: 25px;
+    margin: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width:92%;
+}
+li{
+    color:orange;
+    background-color: rgb(2, 2, 57);
+    display: inline-block;
+    text-align: right;
+  
+}
+
+p{
+    background-color:rgb(2, 2, 57);
+    font-size: 15px;
+    color:gray;
+    width: 100%;
+    margin: 10px 0 0 0;
+}
+span{
+    background-color:rgb(2, 2, 57) ;
+}
